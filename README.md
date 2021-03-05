@@ -32,7 +32,9 @@ Util commands:
 **git branch -d nameBranch** (-d (DELETE) Delete a branch. Use this if the brahch has been merged)
 
 **git checkout -b nameBranch** (Create and switch to new branch)
-**git diff branch1 branch 2**
+**git diff branch1 branch 2** (Show the difference between branches)
+
+**git commit -am "Your message"** (Add all data to stage and commit with a message)
 
 
 
