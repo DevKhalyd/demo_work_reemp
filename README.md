@@ -36,5 +36,5 @@ Util commands:
 
 **git commit -am "Your message"** (Add all data to stage and commit with a message)
 
-
+## What happens if the branch is push to cloud?
 
