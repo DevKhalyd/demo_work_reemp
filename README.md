@@ -38,3 +38,5 @@ Util commands:
 
 ## What happens if the branch is push to cloud?
 
+First you should use **git push --set-upstream origin nameBranch**
+
