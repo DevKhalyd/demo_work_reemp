@@ -57,3 +57,6 @@ Pull requests let you tell others about changes you've pushed to a branch in a r
 #### Read
 
 https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
+
+
+When the pull request is merged. Delete your branch in your machine local to avoid errors.
